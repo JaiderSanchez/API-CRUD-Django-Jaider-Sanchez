@@ -6,3 +6,5 @@ class ProgrammerSerializer(serializers.ModelSerializer):
         model = programmer
         #fields = ('full_name', 'nickname', 'age')
         fields = '__all__'
+        
+class S
