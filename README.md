@@ -1,0 +1,1 @@
+Estamos programando una API CRUD en Django con Python, ya creamos una colección, una colección es una tabla pero en una base de datos no relacional, hicimos prueba en la API con JSON. Vamos a realizar una práctica.
